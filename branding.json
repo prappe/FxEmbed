@@ -1,0 +1,23 @@
+{
+  "zones": [
+    {
+      "name": "pisspuppyx",
+      "default": true,
+      "domains": ["pisspuppyx.com"],
+      "provider": "twitter",
+      "favicon": "https://abs.twimg.com/favicons/twitter.2.ico",
+      "redirect": "https://github.com/FxEmbed/FxEmbed",
+      "color": "#662113",
+      "activityIcons": {
+        "default": "https://assets.pisspuppyx.com/logos/paw32.png",
+        "svg": "https://assets.pisspuppyx.com/logos/paw.svg",
+        "16": "https://assets.pisspuppyx.com/logos/paw16.png",
+        "24": "https://assets.pisspuppyx.com/logos/paw24.png",
+        "32": "https://assets.pisspuppyx.com/logos/paw32.png",
+        "48": "https://assets.pisspuppyx.com/logos/paw48.png",
+        "64": "https://assets.pisspuppyx.com/logos/paw64.png"
+      }
+    }
+    }
+  ]
+}
