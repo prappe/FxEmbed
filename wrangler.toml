@@ -10,9 +10,9 @@ analytics_engine_datasets = [
 ]
 
 # Remove this if not using elongator account proxying
-services = [
-  { binding = "TwitterProxy", service = "elongator" }
-]
+# services = [
+#   { binding = "TwitterProxy", service = "elongator" }
+# ]
 
 [build]
 command = "npm run build"
