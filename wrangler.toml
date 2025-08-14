@@ -1,5 +1,5 @@
 name = "fixtweet"
-account_id = "[CLOUDFLARE_ACCOUNT_ID]"
+account_id = "610ba31298a65d6d0988b7ea550621a5"
 main = "./dist/worker.js"
 compatibility_date = "2024-11-14"
 send_metrics = false
